@@ -1,0 +1,13 @@
+C:\DotnetProjects\eOrderProject\eOrder\bin\eOrder.dll.config
+C:\DotnetProjects\eOrderProject\eOrder\bin\eOrder.dll
+C:\DotnetProjects\eOrderProject\eOrder\bin\eOrder.pdb
+C:\DotnetProjects\eOrderProject\eOrder\bin\eOrder.xml
+C:\DotnetProjects\eOrderProject\eOrder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DotnetProjects\eOrderProject\eOrder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DotnetProjects\eOrderProject\eOrder\obj\Debug\eOrder.vbprojResolveAssemblyReference.cache
+C:\DotnetProjects\eOrderProject\eOrder\obj\Debug\eOrder.Resources.resources
+C:\DotnetProjects\eOrderProject\eOrder\obj\Debug\eOrder.vbproj.GenerateResource.Cache
+C:\DotnetProjects\eOrderProject\eOrder\obj\Debug\eOrder.vbproj.CoreCompileInputs.cache
+C:\DotnetProjects\eOrderProject\eOrder\obj\Debug\eOrder.dll
+C:\DotnetProjects\eOrderProject\eOrder\obj\Debug\eOrder.xml
+C:\DotnetProjects\eOrderProject\eOrder\obj\Debug\eOrder.pdb
